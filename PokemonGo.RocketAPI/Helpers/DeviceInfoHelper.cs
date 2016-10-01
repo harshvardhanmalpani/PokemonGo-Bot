@@ -477,6 +477,24 @@ namespace PokemonGo.RocketAPI
                     { "HardwareModel", "SM-T705" }
                 }
             },
+            { "Redmi Note 3",
+                new Dictionary<string,string>()
+                {
+                    { "AndroidBoardName", "msm8952" },
+                    { "AndroidBootloader", "unknown" },
+                    { "DeviceBrand", "Xiaomi" },
+                    { "DeviceId", "846823464d19a823" },
+                    { "DeviceModel", "kenzo" },
+                    { "DeviceModelBoot", "qcom" },
+                    { "DeviceModelIdentifier", "LMY47V" },
+                    { "FirmwareBrand", "kenzo" },
+                    { "FirmwareFingerprint", "Xiaomi/kenzo/kenzo:5.1.1/LMY47V/V8.0.2.0.LHOMIDG:user/release-keys" },
+                    { "FirmwareTags", "release-keys" },
+                    { "FirmwareType", "user" },
+                    { "HardwareManufacturer", "Xiaomi" },
+                    { "HardwareModel", "Redmi Note 3" }
+                }
+            }
 
         };
     }
